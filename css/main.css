@@ -1,4 +1,11 @@
 b {
-    color: rgb(0, 255, 0);
-    
+    color: red;
 }
+h1 {
+    font-size: large;
+    font-style: italic;
+    color: blue;
+ }
+ .main-text {
+    color: blueviolet;
+ }
