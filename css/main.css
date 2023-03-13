@@ -9,3 +9,10 @@ h1 {
  .main-text {
     color: rgb(101, 20, 177);
  }
+ i {
+    color: green;
+    font-weight: bold;
+ }
+ div b {
+    color: chartreuse;
+ }
