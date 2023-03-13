@@ -16,3 +16,12 @@ h1 {
  div b {
     color: chartreuse;
  }
+.main-link  {
+    color: chocolate;
+    text-decoration: none;
+}
+.main-link:hover {
+    color: blue;
+    text-decoration: underline;
+text-decoration-color: red;
+}
