@@ -16,6 +16,9 @@ h1 {
  div b {
     color: chartreuse;
  }
+ .color-red {
+     color: red;
+ }
 .main-link  {
     color: chocolate;
     text-decoration: none;
